@@ -6,7 +6,7 @@
 
   <a href="https://www.notion.so/my-name-is-Sang-Hyuk-5995b4ab5c0448539c698da2bd0bd612?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   &nbsp;
-  <a href="https://boysz.atlassian.net/wiki/people/712020:cde00fdf-cf1f-4b5b-a3a1-9aab7e0a9d35" target="_blank"><img src="https://img.shields.io/badge/Confluence-000000?style=flat-square&logo=Confluence&logoColor=white"/></a> 
+  <a href="https://boysz.atlassian.net/wiki/people/712020:cde00fdf-cf1f-4b5b-a3a1-9aab7e0a9d35" target="_blank"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a> 
   
 </div>
 
