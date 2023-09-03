@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F771&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
-#
+
 <br/>
 <div align="center">
   
@@ -48,12 +48,26 @@
   &nbsp;
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
   &nbsp;
-  <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=Sprin&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=flat&logo=spring&logoColor=white"> 
   &nbsp;
   <img src="https://img.shields.io/badge/Mybaits-2496ED?style=flat&logo=mybaits&logoColor=white">
 </div>
   
 </div>
+
+#
+
+<div align="center">
+  
+  ## ⚠️ Study ~Ing
+  
+<br/>
+
+  <img src="https://img.shields.io/badge/SCSS-C71A36?style=flat&logo=SCSS&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-C71A36?style=flat&logo=TypeScript&logoColor=white">
+  
+</div>
+
 
 <!--
 **Deko252/Deko252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
