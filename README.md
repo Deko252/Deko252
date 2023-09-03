@@ -1,18 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F771&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br/>
+
+<div align="center">
+
+  노션 링크 
+
+  <a href="[https://www.notion.so/my-name-is-Sang-Hyuk-5995b4ab5c0448539c698da2bd0bd612?pvs=4](https://boysz.atlassian.net/wiki/people/712020:cde00fdf-cf1f-4b5b-a3a1-9aab7e0a9d35)" target="_blank"><img src="https://img.shields.io/badge/Confluence-000000?style=flat-square&logo=Confluence&logoColor=white"/></a> 
+  
+</div>
+
+#
+
+<br/>
+
 <div align="center">
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Deko252&show_icons=true&theme=tokyonight)
-
-</div>
-
-  <br/>
-  <br/>
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deko252&layout=compact&theme=tokyonight)
+  &nbsp;
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deko252&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -20,7 +26,7 @@
 
 <div align="center">
   
-  ## ⭐️ Tech Stack ⭐️
+  ## ⭐️ Tech Stack
   
 <br/>
 
@@ -52,19 +58,6 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Mybaits-2496ED?style=flat&logo=mybaits&logoColor=white">
 </div>
-  
-</div>
-
-#
-
-<div align="center">
-  
-  ## ⚠️ Study ~Ing
-  
-<br/>
-
-  <img src="https://img.shields.io/badge/SCSS-C71A36?style=flat&logo=SCSS&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-C71A36?style=flat&logo=TypeScript&logoColor=white">
   
 </div>
 
