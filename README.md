@@ -4,7 +4,7 @@
 
 <div align="center">
 
-여기는 소개글을 쓸거에요
+<h1>즐겁게 살고 즐겁게 개발하는 개발자가 되고싶은</h1>
 
 <br/>
   <a href="https://www.notion.so/3ee0115e3a524592b5bce756f44e1c70" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
