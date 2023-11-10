@@ -15,6 +15,14 @@
   
 </div>
 
+<div align="center">
+  
+<h3> ⭐️ Study </h3>
+
+ <a href="https://www.notion.so/252867ea76394c698719da3b2d02753a" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+</div>
+
 #
 
 <br/>
