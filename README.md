@@ -12,15 +12,7 @@
   <a href="https://jasper-platinum-f34.notion.site/3ee0115e3a524592b5bce756f44e1c70" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   &nbsp;
   
-</div>
-
-<div align="center">
-  
-<h3> ⭐️ Study </h3>
-
- <a href="https://jasper-platinum-f34.notion.site/252867ea76394c698719da3b2d02753a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-
-</div>
+</div>  
 
 #
 
