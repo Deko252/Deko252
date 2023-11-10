@@ -16,18 +16,6 @@
 
 #
 
-<br/>
-
-<div align="center">
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Deko252&show_icons=true&theme=tokyonight)
-  &nbsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deko252&layout=compact&theme=tokyonight)
-
-</div>
-
-#
-
 <div align="center">
   
   ## ⭐️ Tech Stack
@@ -81,6 +69,17 @@
   
 </div>
 
+#
+
+<br/>
+
+<div align="center">
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Deko252&show_icons=true&theme=tokyonight)
+  &nbsp;
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deko252&layout=compact&theme=tokyonight)
+
+</div>
 
 <!--
 **Deko252/Deko252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
