@@ -9,9 +9,8 @@
 <br/>
  <h3> ⭐️ Photofolio </h3>
 
-  <a href="https://www.notion.so/3ee0115e3a524592b5bce756f44e1c70" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://jasper-platinum-f34.notion.site/3ee0115e3a524592b5bce756f44e1c70" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   &nbsp;
-  <a href="https://boysz.atlassian.net/wiki/people/712020:cde00fdf-cf1f-4b5b-a3a1-9aab7e0a9d35" target="_blank"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a> 
   
 </div>
 
@@ -19,7 +18,7 @@
   
 <h3> ⭐️ Study </h3>
 
- <a href="https://www.notion.so/252867ea76394c698719da3b2d02753a" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+ <a href="https://jasper-platinum-f34.notion.site/252867ea76394c698719da3b2d02753a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 </div>
 
