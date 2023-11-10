@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1>즐겁게 살고 즐겁게 개발하는 개발자가 되고싶은</h1>
+<h1>YU GIT</h1>
 
 <br/>
  <h3> ⭐️ Photofolio </h3>
