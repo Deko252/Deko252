@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1>YU GIT</h1>
+<h1>YU Chanmin Git</h1>
 
 <br/>
  <h3> ⭐️ Photofolio </h3>
